@@ -1,0 +1,15 @@
+.DS_Store
+*.iml
+.idea/
+**/target
+**/*.log
+/bin/
+/target/
+.classpath
+.project
+.settings/
+**.class
+*.iml
+.metadata/*
+*.factorypath
+
