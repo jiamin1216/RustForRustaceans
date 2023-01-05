@@ -11,11 +11,11 @@ Jon 在 MIT 读 PhD 的时候，用 Rust 实现了高性能关系数据库（htt
 [Rust语言开源杂志](https://rustmagazine.github.io/rust_magazine_2021/)  
 [Rust语言圣经-github](https://github.com/sunface/rust-course)  
 [Rust语言圣经-book](https://course.rs/about-book.html)  
-[Rust-By-Practice](https://github.com/sunface/rust-by-practice)    
-[Rusty Book](https://github.com/rustlang-cn/rusty-book)
-[Rust异步编程](https://course.rs/async-rust/intro.html)  
-[Rust编程之道](https://book.douban.com/subject/30418895/)
-[rust-rustaceans](https://nostarch.com/rust-rustaceans)  
-[The Cargo Book](https://doc.rust-lang.org/cargo/index.html)  
+[Rust-By-Practice](https://github.com/sunface/rust-by-practice)      
+[Rusty Book](https://github.com/rustlang-cn/rusty-book)  
+[Rust异步编程](https://course.rs/async-rust/intro.html)    
+[Rust编程之道](https://book.douban.com/subject/30418895/)  
+[rust-rustaceans](https://nostarch.com/rust-rustaceans)    
+[The Cargo Book](https://doc.rust-lang.org/cargo/index.html)    
 
 
