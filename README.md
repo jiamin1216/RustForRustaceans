@@ -16,6 +16,8 @@ Jon 在 MIT 读 PhD 的时候，用 Rust 实现了高性能关系数据库（htt
 [Rust异步编程](https://course.rs/async-rust/intro.html)    
 [Rust编程之道](https://book.douban.com/subject/30418895/)  
 [rust-rustaceans](https://nostarch.com/rust-rustaceans)    
-[The Cargo Book](https://doc.rust-lang.org/cargo/index.html)    
+[The Cargo Book](https://doc.rust-lang.org/cargo/index.html)  
+
+https://www.youtube.com/@JonGjengset/about
 
 
